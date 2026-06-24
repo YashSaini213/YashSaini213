@@ -19,7 +19,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="dancingGithub">
 <ul>
     <li><a href="https://www.linkedin.com/in/yashraj-saini-0aa230214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-chaprana" height="30" width="40" />@yashrajsaini</a></li>
-    <li><a href="https://instagram.com/vivekchaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekchaprana" height="30" width="40" />@vivekchaprana</a></li>
+    <li><a href="https://www.instagram.com/yashh_sainii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekchaprana" height="30" width="40" />@yashsaini</a></li>
 </ul>
 
 <div>
@@ -40,7 +40,7 @@
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
     <div>
-        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=vivek-chaprana&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-chaprana&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /></p>
+        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=yashraj saini&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="yashraj saini" /><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj saini&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="yashraj saini" /></p>
     </div>
 
   
