@@ -39,8 +39,9 @@
         <li> :octocat: <a href="https://drive.google.com/file/d/1gzcMnUpEW6XD6kTvTKaPMIxso-C_XTgP/" target="_blank">My Resume</a></li>
         <li>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )</li>
     </ul>
-    <div>
-        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=yashraj saini&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="yashraj saini" /><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashraj saini&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="yashraj saini" /></p>
+	 <div>
+        <p>&nbsp;<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=vivek-chaprana&show_icons=true&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-chaprana&theme=tokyonight&count_private=true&line_height=40&locale=en" alt="vivek-chaprana" /></p>
     </div>
+
 
   
