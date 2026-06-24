@@ -1,20 +1,19 @@
 <img width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" alt="banner">
 
-<h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/vivek-chaprana/">Vivek Chaprana</a> . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
+<h1 align="center"> Hey, I'm <a href="https://www.linkedin.com/in/vivek-chaprana/">Yashraj Saini</a> . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
 <h4 align="center"> 
-	A full stack developer from Delhi, India. I take great care in the experience, architecture, and code quality of the things I build.
+	A full stack developer from Jaipur, India. I take great care in the experience, architecture, and code quality of the things I build.
 </h4>
 
 
-- 🔭 I’m currently working on **[Tetris](https://github.com/vivek-chaprana/tetris)**.
 
 - 👯 I’m looking to collaborate on **any good project**.
 
 - 💬 Ask me about **anything and everything!**
 
-- 👨‍💻 Take a look at my portfolio : **[https://vivekchaprana.vercel.app/](https://vivekchaprana.vercel.app/)**.
+- 👨‍💻 Take a look at my portfolio : **[https://my-portfolio-zeta-murex-12.vercel.app/](https://my-portfolio-zeta-murex-12.vercel.app/)**.
 
-- 📫 Reach me through my **[Mail](mailto:vivek203ji@outlook.com)**.
+- 📫 Reach me through my **[Mail](mailto:yashrajsaini713@gmail.com.com)**.
 
 <h3>Connect with me : </h3>
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="dancingGithub">
