@@ -18,8 +18,7 @@
 <h3>Connect with me : </h3>
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="dancingGithub">
 <ul>
-    <li><a href="https://twitter.com/vickytooop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickytooop" height="30" width="40" />@Vickytooop</a></li>
-    <li><a href="https://linkedin.com/in/vivek-chaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-chaprana" height="30" width="40" />@vivek-chaprana</a></li>
+    <li><a href="https://www.linkedin.com/in/yashraj-saini-0aa230214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-chaprana" height="30" width="40" />@yashrajsaini</a></li>
     <li><a href="https://instagram.com/vivekchaprana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekchaprana" height="30" width="40" />@vivekchaprana</a></li>
 </ul>
 
